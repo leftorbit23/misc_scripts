@@ -5,6 +5,7 @@ These scripts will allow users to unlock files on share drives without needing a
 <h3>Installation</h3>
 
 <h4>Client</h4>
+
 Download UnlockRequest.vbs and place it on your shared drive. S:\UnlockRequest is used in this example.
 
 Edit UnlockRequest.vbs to change paths and e-mail info
