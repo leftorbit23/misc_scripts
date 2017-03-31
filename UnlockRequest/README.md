@@ -1,6 +1,6 @@
 <h3>Description</h3>
 
-These scripts will allow users to unlock files on share drives without admin rights on the server.
+These scripts will allow users to unlock files on share drives without needing admin rights on the server.
 
 <h3>Installation</h3>
 
